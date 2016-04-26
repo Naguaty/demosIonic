@@ -1,0 +1,40 @@
+[
+  {
+    "about": "Desarrollador en SalesUp!",
+    "address": "Paseos Kabah",
+    "phone": "+1 (998) 120-3947",
+    "email": "alfredo.naguatt@gmail.com",
+    "company": "SalesUp!",
+    "name": {
+      "last": "Naguaty",
+      "first": "Alfredoss"
+    },
+    "eyeColor": "Cafes",
+    "age": 30,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$3,406.75",
+    "isActive": false,
+    "guid": "c4f7cef1-cfe4-41ba-be9a-AL190486",
+    "index": 35,
+    "_id": "57106494260142240qwertbc33528"
+  },
+  {
+    "about": "Auxiliar de tesoreria en BestDay",
+    "address": "Paseos Kabah",
+    "phone": "+1 (998) 129-6132",
+    "email": "nil.lucly@gmail.com",
+    "company": "BestDay",
+    "name": {
+      "last": "Canto",
+      "first": "Lucely"
+    },
+    "eyeColor": "Negros",
+    "age": 32,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$3,882.85",
+    "isActive": false,
+    "guid": "3af5bbf8-e39c-4447-a77d-ncanto0511",
+    "index": 36,
+    "_id": "57106494153f4d24e9aaasd7dba7"
+  }
+]
